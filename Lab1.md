@@ -122,6 +122,7 @@ S1# show flash
 S1# dir flash:
 ```
 ![image](https://github.com/user-attachments/assets/bfbeb2ea-a271-4642-83c0-ae5ad8baf1b7)
+
 В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
 **Вопрос:**
 Какое имя присвоено образу Cisco IOS?
