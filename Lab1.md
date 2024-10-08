@@ -2,7 +2,7 @@
 
 ## Топология
 
-![image](https://github.com/user-attachments/assets/8fd9b29d-5dee-44b7-aa1f-8fa685167973)
+![image](https://github.com/user-attachments/assets/8a3cf6a3-65c9-42fc-b504-b50806d0bef5)
 
 ### Таблица адресации
 
