@@ -2,6 +2,8 @@
 
 ## Топология
 
+![image](https://github.com/user-attachments/assets/8fd9b29d-5dee-44b7-aa1f-8fa685167973)
+
 ### Таблица адресации
 
 | Устройство | Интерфейс | IP-адрес / Префикс |
