@@ -179,6 +179,7 @@ S1# dir flash:
     ```bash
     S1# show run
     ```
+    ![image](https://github.com/user-attachments/assets/8f19f9c3-4829-4f53-96a5-d6bd323e4d93)
 
     Пример вывода конфигурации:
     ```bash
@@ -192,6 +193,7 @@ S1# dir flash:
     ```bash
     S1# show interface vlan1
     ```
+    ![image](https://github.com/user-attachments/assets/f1e21558-b25f-4f9b-abbc-3cd50878a575)
 
     **Вопрос:** Какова полоса пропускания этого интерфейса?  
     **Ответ:** BW 100000 Kbit
@@ -200,12 +202,14 @@ S1# dir flash:
     ```bash
     PC-A> ping 192.168.1.2
     ```
+    ![image](https://github.com/user-attachments/assets/b7aa0415-96c2-47f9-a622-24cdd056fe5d)
 
 5. Проверьте удалённое управление с помощью Telnet:
     - Используйте программу Tera Term для подключения по Telnet к S1:
     ```bash
     telnet 192.168.1.2
     ```
+    
     - Введите пароль "cisco", чтобы получить доступ к командной строке коммутатора.
 
     Для завершения сеанса введите:
