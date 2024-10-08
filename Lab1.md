@@ -79,7 +79,7 @@
     ```bash
     S1# show interface vlan1
     ```
-    ![image](https://github.com/user-attachments/assets/2d72cab9-0cab-45ca-a340-d432d09b5831)
+   ![image](https://github.com/user-attachments/assets/2d72cab9-0cab-45ca-a340-d432d09b5831)
 
    **Вопросы:**
     - Назначен ли IP-адрес сети VLAN 1?  
