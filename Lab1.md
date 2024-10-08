@@ -100,6 +100,7 @@
 S1# show interface f0/6
 ```
 **Вопрос:** Интерфейс включен или выключен?
+
 **Ответ:** Интерфейс находится во включенном состоянии
 ![image](https://github.com/user-attachments/assets/02b6748c-f2ee-4787-ab49-a80fb833d660)
 
